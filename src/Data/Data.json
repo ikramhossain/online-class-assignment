@@ -1,0 +1,76 @@
+[{
+    "id": 1,
+    "course": "Web Design for Everybody: Basics of Web Development & Coding",
+    "institute": "University of Michigan",
+    "price": 92.04
+  }, {
+    "id": 2,
+    "course": "HTML, CSS, and Javascript for Web Developers",
+    "institute": "Johns Hopkins University",
+    "price": 23.24
+  }, {
+    "id": 3,
+    "course": "Full-Stack Web Development with React",
+    "institute": "The Hong Kong University of Science and Technology",
+    "price": 65.72
+  }, {
+    "id": 4,
+    "course": "JavaScript, jQuery, and JSON",
+    "institute": "University of Michigan",
+    "price": 68.24
+  }, {
+    "id": 5,
+    "course": "Java Programming and Software Engineering Fundamentals",
+    "institute": "Duke University",
+    "price": 25.03
+  }, {
+    "id": 6,
+    "course": "Interactivity with JavaScript",
+    "institute": "University of Michigan",
+    "price": 65.46
+  }, {
+    "id": 7,
+    "course": "Programming Foundations with JavaScript, HTML and CSS",
+    "institute": "Duke University",
+    "price": 37.68
+  }, {
+    "id": 8,
+    "course": "Modern JavaScript: ES6 Basics",
+    "institute": "Coursera Project Network",
+    "price": 77.84
+  }, {
+    "id": 9,
+    "course": "Python for Everybody",
+    "institute": "University of Michigan",
+    "price": 30.88
+  }, {
+    "id": 10,
+    "course": "Introduction to Javascript: The Basics",
+    "institute": "Coursera Project Network",
+    "price": 98.99
+  }, {
+    "id": 11,
+    "course": "Web Applications for Everybody",
+    "institute": "University of Michigan",
+    "price": 66.69
+  }, {
+    "id": 12,
+    "course": "Responsive Website Development and Design",
+    "institute": "Goldsmiths, University of London",
+    "price": 54.24
+  }, {
+    "id": 13,
+    "course": "Javascript animation for websites, storytelling, data visualization and games",
+    "institute": "Coursera Project Network",
+    "price": 67.28
+  }, {
+    "id": 14,
+    "course": "Introduction to Web Development",
+    "institute": "University of California, Davis",
+    "price": 28.44
+  }, {
+    "id": 15,
+    "course": "RESTful API with HTTP and JavaScript",
+    "institute": "Coursera Project Network",
+    "price": 82.24
+  }]
